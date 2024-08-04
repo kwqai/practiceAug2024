@@ -1,1 +1,1 @@
-# I have sendt these files on github today.
+# I have sent these files on github today.
